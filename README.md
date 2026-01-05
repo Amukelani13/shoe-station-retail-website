@@ -1,22 +1,18 @@
 # Shoe Station – Retail Website
 
-## Project Overview
-A responsive retail website developed for a shoe store to showcase products and enhance online presence.
+This project is a retail website developed to demonstrate how
+Information Systems support real-world business operations.
+
+## Purpose
+- Simulate an online shoe retail business
+- Show how technology supports product display and customer interaction
 
 ## Technologies Used
 - HTML
 - CSS
 
-## My Role
-- Designed and developed the website layout
-- Created responsive design for multiple devices
-- Implemented product display sections
-
-## Problem Solved
-Provided a digital platform for showcasing products to attract and engage customers.
-
-## Outcome
-This project demonstrates front-end development and UI design skills.
-
-## Author
-Amukelani Chantal Baloyi
+## Information Systems Concepts
+- Business process support
+- User interface design
+- Web-based business systems
+- Version control using GitHub
